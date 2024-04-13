@@ -1,5 +1,5 @@
 {
-  "name": "react-native-code-push",
+  "name": "react-native-code-push-pm",
   "version": "8.2.2",
   "description": "React Native plugin for the CodePush service",
   "main": "CodePush.js",
